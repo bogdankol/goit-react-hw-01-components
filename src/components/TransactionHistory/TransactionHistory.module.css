@@ -1,0 +1,12 @@
+.tableHead {
+    background-color: rgba(72, 206, 206, 0.733);
+    font-size: 18px;
+}
+.tableBody th {
+    width: 150px;
+    font-weight: 500;
+    font-size: 16px;
+}
+.tableBody tr:nth-child(even) {
+    background-color: rgba(0, 192, 192, 0.719);
+}

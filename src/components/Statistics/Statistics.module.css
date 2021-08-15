@@ -1,0 +1,22 @@
+.statistics {
+    width: 100%;
+    margin: 40px 0;
+    border-top: 2px solid tomato;
+}
+.statList {
+    display: flex;
+}
+.statList li {
+    padding: 10px 15px;
+  width: 33%;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+.title {
+    background-color: aliceblue;
+    line-height: 2;
+}
+.percentage {
+    font-size: 20px;
+}
